@@ -10,7 +10,7 @@ choice = st.sidebar.selectbox("Navigation", menu)
 if choice == "Home":
     st.header("About Me")
     st.write("""
-    Hi, I am Tanvi, a passionate developer and problem-solver aspiring to secure a role in a FAANG company. 
+    Hi, I am Tanvi, a passionate developer and problem-solver aspiring to secure a role in a machine learning, data science jobs. 
     I specialize in data structures and algorithms, competitive programming in Python, and have a strong interest in Machine Learning and AI.
     """)
     st.image("./profile.jpeg", caption="Profile Picture", width=250)
