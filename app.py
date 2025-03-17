@@ -50,8 +50,8 @@ elif choice == "Projects":
 elif choice == "Contact":
     st.header("Contact Me")
     st.write("Feel free to reach out!")
-    st.write("- **Email:** tanvisuryawanshi09@gmail.com")
-    st.write("- **LinkedIn:** [Tanvi's LinkedIn](https://www.linkedin.com/in/tanvi-suryawanshi/)")
+    st.write("- **Email:** tanvi@gmail.com")
+    st.write("- **LinkedIn:** [Tanvi's LinkedIn](https://www.linkedin.com/in/tanvi/)")
     st.write("- **GitHub:** [Tanvi's GitHub](https://github.com/TanviS001)")
     
     st.write("### Send a Message")
